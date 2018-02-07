@@ -9,6 +9,8 @@
 import Foundation
 import UIKit
 
+//This is the file for the ultrasound section now
+
 let apChestTrachea = MarkedAnatomyComponent(
     componentImage: #imageLiteral(resourceName: "AP Chest Trachea.png"),
     componentPointer: #imageLiteral(resourceName: "AP Chest Trachea Pointer.png"),
