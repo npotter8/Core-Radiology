@@ -9,8 +9,6 @@
 import Foundation
 import UIKit
 
-//Now this data is all about EKGs
-
 let apChestTrachea = MarkedAnatomyComponent(
     componentImage: #imageLiteral(resourceName: "AP Chest Trachea.png"),
     componentPointer: #imageLiteral(resourceName: "AP Chest Trachea Pointer.png"),
